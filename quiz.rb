@@ -18,7 +18,7 @@ puts "Cooooooooool!"
 puts "One last question, in whatever unit of measurement you prefer, how short are you from the bottom of your heels to the top of your head, while standing up (comfortably)?"
 print "> "
 measurement = $stdin.gets.chomp
-puts "I am out of questions... are you ready to see how you measure up? I'm looking for 'sure' or 'nah'.'"
+puts "I am out of questions... are you ready to see how you measure up? I'm looking for sure or nah.'"
 print "> "
 ready = $stdin.gets.chomp
 
